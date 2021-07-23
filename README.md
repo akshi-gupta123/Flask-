@@ -1,6 +1,6 @@
 # Flask With OpenCV
 
-## Three different folders are created using flask web framework and opencv
+## Three different folders are created that include:
 
 1. VedioStreaming using Wrbcam in Flask Web Framework
 2. OpenCV Face and Eye Detection in Flask Web Framework
